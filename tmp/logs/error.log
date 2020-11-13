@@ -1,0 +1,70 @@
+2013-11-18 21:19:32 Warning: Warning (2): preg_match() expects parameter 2 to be string, array given in [/var/lib/php/cakephp/cake/libs/validation.php, line 946]
+2013-11-19 20:27:12 Warning: Warning (2): Missing argument 2 for ArticlesController::download() in [/var/www/magazine/controllers/articles_controller.php, line 118]
+2013-11-29 14:38:12 Warning: Warning (2): Missing argument 2 for ArticlesController::download() in [/var/www/magazine/controllers/articles_controller.php, line 119]
+2013-11-29 14:38:25 Warning: Warning (2): Missing argument 2 for ArticlesController::download() in [/var/www/magazine/controllers/articles_controller.php, line 119]
+2013-11-29 15:06:21 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'User.role_id' in 'where clause'</span> in [/var/lib/php/cakephp/cake/libs/model/datasources/dbo_source.php, line 684]
+2013-11-29 15:11:01 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1054: Unknown column 'AutorUser.role_id' in 'where clause'</span> in [/var/lib/php/cakephp/cake/libs/model/datasources/dbo_source.php, line 684]
+2013-12-01 14:21:58 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1452: Cannot add or update a child row: a foreign key constraint fails (`mydb`.`users`, CONSTRAINT `fk_users_roles` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)</span> in [/var/lib/php/cakephp/cake/libs/model/datasources/dbo_source.php, line 684]
+2013-12-01 14:22:55 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1452: Cannot add or update a child row: a foreign key constraint fails (`mydb`.`users`, CONSTRAINT `fk_users_roles` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)</span> in [/var/lib/php/cakephp/cake/libs/model/datasources/dbo_source.php, line 684]
+2013-12-01 14:23:00 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1452: Cannot add or update a child row: a foreign key constraint fails (`mydb`.`users`, CONSTRAINT `fk_users_roles` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)</span> in [/var/lib/php/cakephp/cake/libs/model/datasources/dbo_source.php, line 684]
+2013-12-01 14:25:02 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1452: Cannot add or update a child row: a foreign key constraint fails (`mydb`.`users`, CONSTRAINT `fk_users_roles` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)</span> in [/var/lib/php/cakephp/cake/libs/model/datasources/dbo_source.php, line 684]
+2013-12-01 14:25:42 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1452: Cannot add or update a child row: a foreign key constraint fails (`mydb`.`users`, CONSTRAINT `fk_users_roles` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)</span> in [/var/lib/php/cakephp/cake/libs/model/datasources/dbo_source.php, line 684]
+2013-12-01 14:33:10 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1452: Cannot add or update a child row: a foreign key constraint fails (`mydb`.`users`, CONSTRAINT `fk_users_roles` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)</span> in [/var/lib/php/cakephp/cake/libs/model/datasources/dbo_source.php, line 684]
+2013-12-01 14:33:55 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1452: Cannot add or update a child row: a foreign key constraint fails (`mydb`.`users`, CONSTRAINT `fk_users_roles` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)</span> in [/var/lib/php/cakephp/cake/libs/model/datasources/dbo_source.php, line 684]
+2013-12-01 14:34:37 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1452: Cannot add or update a child row: a foreign key constraint fails (`mydb`.`users`, CONSTRAINT `fk_users_roles` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)</span> in [/var/lib/php/cakephp/cake/libs/model/datasources/dbo_source.php, line 684]
+2013-12-01 14:34:59 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1452: Cannot add or update a child row: a foreign key constraint fails (`mydb`.`users`, CONSTRAINT `fk_users_roles` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)</span> in [/var/lib/php/cakephp/cake/libs/model/datasources/dbo_source.php, line 684]
+2013-12-01 14:35:29 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1452: Cannot add or update a child row: a foreign key constraint fails (`mydb`.`users`, CONSTRAINT `fk_users_roles` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)</span> in [/var/lib/php/cakephp/cake/libs/model/datasources/dbo_source.php, line 684]
+2013-12-01 14:35:33 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1452: Cannot add or update a child row: a foreign key constraint fails (`mydb`.`users`, CONSTRAINT `fk_users_roles` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)</span> in [/var/lib/php/cakephp/cake/libs/model/datasources/dbo_source.php, line 684]
+2013-12-01 14:36:37 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1452: Cannot add or update a child row: a foreign key constraint fails (`mydb`.`users`, CONSTRAINT `fk_users_roles` FOREIGN KEY (`role_id`) REFERENCES `roles` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)</span> in [/var/lib/php/cakephp/cake/libs/model/datasources/dbo_source.php, line 684]
+2013-12-02 14:45:56 Error: Array
+(
+    [User] => Array
+        (
+            [id] => 9
+            [name] => maddy
+            [last_names] => curley
+            [username] => mad
+            [email] => maddy@hotmail.com
+            [description] => Selecting which jQuery UI and Bootstrap components and styles we wish to use, we can benefit from the advantages of both projects. jQuery UI Bootstrap also provides Bootstrap theming for a number of third-party jQuery UI widgets such as the Wijmo menu widget and others. 
+            [birth_date] => 2013-07-30
+            [adress] => eeuu
+            [education_degree] => gimnasta
+            [photo] => /files/User_9_1383575260.jpg
+            [created] => 2013-10-30 18:12:22
+            [role_id] => 2
+            [magazine_id] => 15
+            [status] => 1
+            [subscription] => 21
+        )
+
+    [Role] => Array
+        (
+            [id] => 2
+            [name] => Autor
+        )
+
+)
+
+2013-12-02 14:45:56 Error: Array
+(
+    [Magazine] => Array
+        (
+            [id] => 20
+            [name] => expediciones
+            [description] => Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+            [created] => 2013-10-30 11:42:26
+        )
+
+)
+
+2013-12-03 08:41:02 Error: 19
+2013-12-03 08:41:02 Error: 3
+2013-12-03 18:02:35 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/magazine/controllers/articles_controller.php, line 147]
+2013-12-03 18:02:48 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/magazine/controllers/articles_controller.php, line 147]
+2013-12-03 18:02:57 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/magazine/controllers/articles_controller.php, line 147]
+2013-12-03 18:03:05 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/magazine/controllers/articles_controller.php, line 147]
+2013-12-03 18:09:58 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/magazine/controllers/articles_controller.php, line 147]
+2013-12-03 18:10:34 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/magazine/controllers/articles_controller.php, line 147]
+2013-12-03 18:11:42 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/magazine/controllers/articles_controller.php, line 147]
+2013-12-03 18:11:54 Warning: Warning (512): <span style="color:Red;text-align:left"><b>SQL Error:</b> 1051: Unknown table 'Tag'</span> in [/var/lib/php/cakephp/cake/libs/model/datasources/dbo_source.php, line 684]
+2013-12-03 18:11:54 Warning: Warning (2): Invalid argument supplied for foreach() in [/var/www/magazine/controllers/articles_controller.php, line 147]

@@ -1,0 +1,48 @@
+2014-09-09 18:02:34 Debug: Array
+(
+    [User] => Array
+        (
+            [name] => cristian
+            [last_names] => algo
+            [email] => sdlfh@une.com
+            [username] => cristian
+            [password] => a9110182ef2539fa74dbeed925e8eb830ec277ef
+            [passwordConfirm] => 12345
+            [adress] => mexico
+            [education_degree] => doctorado
+            [description] => lsldkfjls
+            [birth_date] => Array
+                (
+                    [day] => 09
+                    [month] => 09
+                    [year] => 1999
+                )
+
+            [role_id] => 2
+            [magazine_id] => 
+            [status] => 1
+            [photo] => Array
+                (
+                    [name] => 2.jpg
+                    [type] => image/jpeg
+                    [tmp_name] => D:\xampp\tmp\php9F46.tmp
+                    [error] => 0
+                    [size] => 24667
+                )
+
+        )
+
+)
+
+2014-09-09 18:02:34 Debug: Array
+(
+    [name] => 2.jpg
+    [type] => image/jpeg
+    [tmp_name] => D:\xampp\tmp\php9F46.tmp
+    [error] => 0
+    [size] => 24667
+)
+
+2014-10-09 02:57:37 Debug: Notice (8): Undefined index: Auth in [D:\Dev\Prjs\magazine\controllers\pages_controller.php, line 89]
+2014-10-09 02:57:37 Debug: Notice (8): Undefined index: Auth in [D:\Dev\Prjs\magazine\controllers\pages_controller.php, line 93]
+2014-10-09 02:57:37 Debug: Notice (8): Undefined index: Auth in [D:\Dev\Prjs\magazine\controllers\pages_controller.php, line 93]
